@@ -1,92 +1,96 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Daniel Kleiner",
+  title: "Software Engineer",
+  description: "Newly graduated software engineer with a passion for building impactful projects and learning new technologies.",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "daniel.a.kleiner@protonmail.com",
+    linkedin: "https://www.linkedin.com/in/daniel-a-kleiner/",
+    github: "https://github.com/dakleiner",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I am a recent graduate with a Bachelor of Science in Computer Science from Southern New Hampshire University. I have a strong passion for software development and am eager to apply my skills in real-world projects. I have experience working with a variety of technologies and am always looking to learn and grow as a developer.",
+  skills: ["Python", "C++", "JavaScript", "Node.js", "Java", "SQL"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Code Review",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "I review code from a previous project and explain how it works and how to improve it",
+      link: "https://www.youtube.com/watch?v=4bPV5emFiYA&t=6s",
+      skills: ["C++", "Software Engineering", "Best Practices"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      name: "Software Engineering and Design",
+      description:"A comprehensive project that demonstrates my skills in software engineering and design principles, showcasing my ability to create scalable and maintainable applications.",
+      link: "https://github.com/dakleiner/SoftwareEngineeringAndDesign",
+      skills: ["C++", "Software Engineering", "Design Patterns"],
     },
     {
-      name: "ExtensionKit",
+      name: "Data Structures and Algorithms",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Comprehensive collection of data structures and algorithms implemented in C++ for educational purposes and practical applications.",
+      link: "https://github.com/dakleiner/DataStructuresandAlgorithms",
+      skills: ["C++", "Data Structures", "Algorithms"],
     },
+        {
+      name: "Databases",
+      description:
+        "Further development of the Software Engineering and Design project, focusing on building a robust database system to handle data storage and retrieval efficiently.",
+      link: "https://github.com/dakleiner/Databases",
+      skills: ["C++", "SQL", "SQLite"],
+    }
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Geisinger Medical Center",
+      title: "Logistics Supervisor",
+      dateRange: "Nov 2022 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Managed logistics operations for a large medical center, overseeing inventory and supply chain processes",
+        "Led a team of 13 logistics coordinators to optimize workflow and improve efficiency",
+        "Maintained accurate records and ensured compliance with healthcare regulations",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Geisinger System Services",
+      title: "Transaction Analyst",
+      dateRange: "Jun 2019 - Nov 2022",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
+        "Analyzed and processed financial transactions, ensuring accuracy and compliance with company policies",
+        "Collaborated with cross-functional teams to resolve transaction discrepancies and improve processes",
+        "Provided training and support to new team members, contributing to a more efficient and knowledgeable workforce",],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "Geisinger Medical Center",
+      title: "Logistics Coordinator",
+      dateRange: "Jun 2016 - Jun 2019",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Coordinated logistics operations for a large medical center, managing inventory and supply chain processes",
+        "Collaborated with healthcare providers and vendors to ensure timely delivery of supplies and equipment",
+        "Provided training and support to new team members, contributing to a more efficient and knowledgeable workforce",],
+    },
+    {
+      company: "OneSource Staffing",
+      title: "Electronic Health Records (EHR) Specialist",
+      dateRange: "Oct 2016 -  Oct 2017",
+      bullets: [
+        "Assisted healthcare providers in implementing and optimizing electronic health record (EHR) systems",
+        "Provided training and support to medical staff on EHR usage, improving adoption and efficiency",
+        "Collaborated with IT teams to troubleshoot and resolve technical issues related to EHR systems, ensuring smooth operation and minimal downtime",
       ],
     },
   ],
   education: [
     {
-      school: "University Name",
+      school: "Southern New Hampshire University",
       degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      dateRange: "2023 - 2026",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Dean's List many semesters",
+        "3.2 GPA",
+        
       ],
     },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+    
   ],
 };
