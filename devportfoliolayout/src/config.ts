@@ -86,8 +86,8 @@ export const siteConfig = {
       degree: "Bachelor of Science in Computer Science",
       dateRange: "2023 - 2026",
       achievements: [
-        "Dean's List many semesters",
-        "3.2 GPA",
+    
+        "3.274 GPA",
         
       ],
     },
