@@ -71,7 +71,7 @@ export const siteConfig = {
     },
     {
       company: "OneSource Staffing",
-      title: "Electronic Health Records (EHR) Specialist",
+      title: "System Support Analyst",
       dateRange: "Oct 2016 -  Oct 2017",
       bullets: [
         "Assisted healthcare providers in implementing and optimizing electronic health record (EHR) systems",
