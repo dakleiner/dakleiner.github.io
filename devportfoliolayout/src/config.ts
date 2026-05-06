@@ -8,8 +8,11 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/daniel-a-kleiner/",
     github: "https://github.com/dakleiner",
   },
-  aboutMe:
-    "I am a recent graduate with a Bachelor of Science in Computer Science from Southern New Hampshire University. I have a strong passion for software development and am eager to apply my skills in real-world projects. I have experience working with a variety of technologies and am always looking to learn and grow as a developer.",
+aboutMe: `I'm Daniel Kleiner — a Computer Science graduate and logistics supervisor making the move into tech. After about 17 years managing healthcare operations, I bring a practical, problem-solving mindset to software engineering, cybersecurity, and systems work.
+
+My background is unconventional, but I think that's a strength. Working with teams and complex systems in high-pressure environments taught me things that go beyond what you learn in a classroom. Now I'm applying that experience to building software and understanding how things work at a deeper level.
+
+Outside of work, I'm passionate enough about cybersecurity to have attended DEFCON, Shmoocon, and Black Hat. I'm based in Bloomsburg, PA with my fiancée and our kid.`,
   skills: ["Python", "C++", "JavaScript", "Node.js", "Java", "SQL"],
   projects: [
     {
