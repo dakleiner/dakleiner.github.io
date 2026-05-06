@@ -12,7 +12,7 @@ aboutMe: `I'm Daniel Kleiner — a Computer Science graduate and logistics super
 
 My background is unconventional, but I think that's a strength. Working with teams and complex systems in high-pressure environments taught me things that go beyond what you learn in a classroom. Now I'm applying that experience to building software and understanding how things work at a deeper level.
 
-Outside of work, I'm passionate enough about cybersecurity to have attended DEFCON, Shmoocon, and Black Hat. I'm based in Bloomsburg, PA with my fiancée and our kid.`,
+Outside of work, I'm passionate enough about cybersecurity to have attended DEFCON, Shmoocon, and Black Hat. I'm based in Bloomsburg, PA with my fiancée and our son.`,
   skills: ["Python", "C++", "JavaScript", "Node.js", "Java", "SQL"],
   projects: [
     {
